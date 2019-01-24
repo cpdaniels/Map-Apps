@@ -5,10 +5,6 @@ This repo contains all data and map code.
 
 Clone/download repo to run. 
 
-Open all .R files in a folder to run the app. 
-
-Run 'process' code first
-
-Where prompted in the code, change file directories. 
+Open all .R files in a folder.
 
 Run app. 
