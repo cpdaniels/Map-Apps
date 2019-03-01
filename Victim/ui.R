@@ -25,8 +25,9 @@ ui <- fluidPage(
                               'SHOOTING.OR.MURDER', 'SEXUAL.ASSAULT')),
                                     
       selectInput('ratetype', 'Data Format:', 
-                  choices = c('Rate Quintile', 'Raw','Raw Quintile')),
+                  choices = c('Rate Quintile', 'Raw','Raw Quintile', 'Raw as % of all reports')),
       
+  
       
       hr()
 

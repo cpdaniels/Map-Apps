@@ -1,0 +1,12 @@
+name: Victim_Reported_Crime
+title: Victim_Reported_Crime
+username:
+account: chelseapd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 664822
+bundleId: 1898390
+url: https://chelseapd.shinyapps.io/Victim_Reported_Crime/
+when: 1551112616.82538
+asMultiple: FALSE
+asStatic: FALSE

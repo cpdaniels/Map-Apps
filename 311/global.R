@@ -6,5 +6,5 @@ library(tidyverse)
 library(sf)
 library(dplyr)
 
-df = readRDS("311_data.rds")
+df = readRDS("311_data_cond.rds")
 balt_geo = readRDS('BaltGeo.rds')
